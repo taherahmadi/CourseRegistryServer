@@ -26,7 +26,5 @@ ______________________________________________________________________
 
 
 Fall 2015
-
 Network 1 Course Final project
-
 Dr.Sadeghian
